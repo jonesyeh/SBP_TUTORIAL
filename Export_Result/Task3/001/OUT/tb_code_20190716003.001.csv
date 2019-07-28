@@ -1,0 +1,12 @@
+001	BIN	二進位檔
+001	CSV	CSV
+001	FIX	固定長度格式
+001	FMDATA	multipart/form-data
+001	FORM	application/x-www-form-urlencoded
+001	HEAD	HEAD檔
+001	JSON	JSON格式檔
+001	TXT	文字檔
+001	TXTH	文字檔勾稽檔頭
+001	TXTHC	文字檔勾稽檔頭(筆數需相同)
+001	XLS	Excel
+001	ZIP	ZIP

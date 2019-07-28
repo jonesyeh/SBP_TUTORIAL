@@ -1,0 +1,12 @@
+002	DHIS	Delete Target Not Math and History Insert
+002	DMO	Delete Match Only
+002	DNM	Delete Target Not Match  and Merge
+002	DTI	Delete Table Insert
+002	DTM	Delete Table Insert & Merge
+002	HIS	History Insert
+002	M	Merge(Update/Insert)
+002	NEW	Insert Only(New Data)
+002	TTI	Truncate Table Insert
+002	TTM	Truncate Table Insert & Merge
+002	UET	Update End_time(Update/Insert)
+002	UMO	Update Match Only
